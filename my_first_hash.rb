@@ -32,7 +32,5 @@ def adding
     "oil paintings" => 3 
   }
   
-  adding["muskets"] = 2
+  ["muskets"]= 2
 end
-
-puts adding 
