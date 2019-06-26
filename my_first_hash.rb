@@ -14,8 +14,8 @@ end
 
 puts shipping_manifest
 
-def retrieval
-
+def retrieval(shipping_manifest)
+ hash["oil paintings"]
 end
 
 def adding
