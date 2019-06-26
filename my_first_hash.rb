@@ -32,7 +32,7 @@ def adding
     "oil paintings" => 3 
   }
   
-  the_manifest["muskets"] = 2
+  adding["muskets"] = 2
 end
 
 puts adding 
