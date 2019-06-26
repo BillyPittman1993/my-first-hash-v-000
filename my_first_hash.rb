@@ -32,8 +32,7 @@ def adding
     "oil paintings" => 3 
   }
   
-  the_manifest["muskets"] = 2,
-  the_manifest["gun powder"] = 4
+  the_manifest["muskets"] = 2, ["gun powder"] = 4
 end
 
 puts adding 
