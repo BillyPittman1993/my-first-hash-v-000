@@ -23,6 +23,8 @@ def retrieval
  the_manifest["oil paintings"]
 end
 
+puts retrieval
+
 puts retrieval(shipping_manifest)
 
 def adding
