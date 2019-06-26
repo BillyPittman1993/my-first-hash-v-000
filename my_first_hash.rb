@@ -31,5 +31,7 @@ def adding
     "porcelain vases" => 2,
     "oil paintings" => 3 
   }
-  
+  the_manifest["muskets"] => 2, ["gun powder"] => 4
 end
+
+puts adding 
