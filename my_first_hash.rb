@@ -14,7 +14,8 @@ end
 
 puts shipping_manifest
 
-def retrieval(shipping_manifest)
+def retrieval
+  
  the_manifest["oil paintings"]
 end
 
