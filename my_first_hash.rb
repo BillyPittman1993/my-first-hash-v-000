@@ -33,5 +33,5 @@ def adding
   }
   
   the_manifest["muskets"]= 2
-  the_manifest
+  the_manifest["gun powder"]=4
 end
