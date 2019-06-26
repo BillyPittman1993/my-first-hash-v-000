@@ -32,5 +32,6 @@ def adding
     "oil paintings" => 3 
   }
   
-  ["muskets"]= 2
+  the_manifest["muskets"]= 2
+  the_manifest
 end
