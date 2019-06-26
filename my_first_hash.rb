@@ -18,6 +18,8 @@ def retrieval(shipping_manifest)
  hash["oil paintings"]
 end
 
+puts retrieval(shipping_manifest)
+
 def adding
   
 end
