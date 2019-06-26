@@ -25,8 +25,6 @@ end
 
 puts retrieval
 
-puts retrieval(shipping_manifest)
-
 def adding
   
 end
