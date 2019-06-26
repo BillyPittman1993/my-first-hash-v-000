@@ -15,7 +15,7 @@ end
 puts shipping_manifest
 
 def retrieval(shipping_manifest)
- hash["oil paintings"]
+ the_manifest["oil paintings"]
 end
 
 puts retrieval(shipping_manifest)
