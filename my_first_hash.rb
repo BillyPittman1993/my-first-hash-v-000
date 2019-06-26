@@ -36,3 +36,5 @@ def adding
   the_manifest["gun powder"] =4
   the_manifest
 end
+
+puts adding 
