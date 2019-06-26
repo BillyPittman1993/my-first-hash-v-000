@@ -1,8 +1,6 @@
 def my_hash
  your_hash = {"name" => "Billy", "profession" => "Advisor"}
-  
 end
-
 
 def shipping_manifest
   shipping_manifest = {
@@ -10,7 +8,6 @@ def shipping_manifest
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                   }
-
 end
 
 def retrieval
@@ -19,7 +16,7 @@ def retrieval
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-
+                 
   shipping_manifest["oil paintings"]
 end
 
